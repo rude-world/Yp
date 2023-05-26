@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\UL\Ульянов\Ульянов\bin\Debug\net6.0\Ульянов.exe
+C:\Users\Admin\Desktop\UL\Ульянов\Ульянов\bin\Debug\net6.0\Ульянов.deps.json
+C:\Users\Admin\Desktop\UL\Ульянов\Ульянов\bin\Debug\net6.0\Ульянов.runtimeconfig.json
+C:\Users\Admin\Desktop\UL\Ульянов\Ульянов\bin\Debug\net6.0\Ульянов.dll
+C:\Users\Admin\Desktop\UL\Ульянов\Ульянов\bin\Debug\net6.0\Ульянов.pdb
+C:\Users\Admin\Desktop\UL\Ульянов\Ульянов\obj\Debug\net6.0\Ульянов.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\UL\Ульянов\Ульянов\obj\Debug\net6.0\Ульянов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\UL\Ульянов\Ульянов\obj\Debug\net6.0\Ульянов.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\UL\Ульянов\Ульянов\obj\Debug\net6.0\Ульянов.AssemblyInfo.cs
+C:\Users\Admin\Desktop\UL\Ульянов\Ульянов\obj\Debug\net6.0\Ульянов.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\UL\Ульянов\Ульянов\obj\Debug\net6.0\Ульянов.dll
+C:\Users\Admin\Desktop\UL\Ульянов\Ульянов\obj\Debug\net6.0\refint\Ульянов.dll
+C:\Users\Admin\Desktop\UL\Ульянов\Ульянов\obj\Debug\net6.0\Ульянов.pdb
+C:\Users\Admin\Desktop\UL\Ульянов\Ульянов\obj\Debug\net6.0\Ульянов.genruntimeconfig.cache
+C:\Users\Admin\Desktop\UL\Ульянов\Ульянов\obj\Debug\net6.0\ref\Ульянов.dll
